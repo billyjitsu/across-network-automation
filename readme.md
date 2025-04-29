@@ -22,8 +22,8 @@ This project provides a script to automate cross-chain token transfers using the
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/across-bridge-automation.git
-   cd across-bridge-automation
+   git clone https://github.com/billyjitsu/across-network-automation.git
+   cd across-network-automation
    ```
 
 2. Install dependencies:
