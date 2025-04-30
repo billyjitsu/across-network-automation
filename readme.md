@@ -2,6 +2,8 @@
 
 This project provides a script to automate cross-chain token transfers using the Across Protocol. It allows you to check quotes, execute transactions based on configurable thresholds, and monitor transaction status across multiple networks.
 
+[Video Companion]("https://www.youtube.com/watch?v=iTmhoqhq-XY")
+
 ## Features
 
 - Check quotes for cross-chain token transfers
